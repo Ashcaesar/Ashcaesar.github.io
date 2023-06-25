@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://Ashcaesar.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://Ashcaesar.github.io/2023/06/25/%E6%8D%A2%E6%BA%90%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2023-06-25</lastmod>
+  </url>
+  <url>
+    <loc>http://Ashcaesar.github.io/2020/04/17/en-Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
   <url>
-    <loc>http://Ashcaesar.github.io/en/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://Ashcaesar.github.io/2020/04/17/cn-Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
 </urlset> 

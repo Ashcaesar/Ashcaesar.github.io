@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ashcaesar.github.io/2023/06/25/%E6%8D%A2%E6%BA%90%E9%97%AE%E9%A2%98/</loc>
+    
+    <lastmod>2023-06-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ashcaesar.github.io/404.html</loc>
+    
+    <lastmod>2023-06-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ashcaesar.github.io/tags/index.html</loc>
     
     <lastmod>2023-06-21</lastmod>
@@ -16,52 +30,52 @@
   </url>
   
   <url>
-    <loc>http://ashcaesar.github.io/404.html</loc>
-    
-    <lastmod>2023-06-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ashcaesar.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ashcaesar.github.io/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://ashcaesar.github.io/archive/index.html</loc>
     
-    <lastmod>2017-03-20</lastmod>
+    <lastmod>2023-06-21</lastmod>
     
   </url>
   
   <url>
     <loc>http://ashcaesar.github.io/about/index.html</loc>
     
-    <lastmod>2016-04-20</lastmod>
+    <lastmod>2023-06-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ashcaesar.github.io/2020/04/17/en-Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ashcaesar.github.io/2020/04/17/cn-Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
     
   </url>
   
 
   <url>
     <loc>http://ashcaesar.github.io/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://ashcaesar.github.io/tags/Ubuntu/</loc>
+    <lastmod>2023-06-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ashcaesar.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -69,8 +83,22 @@
 
   
   <url>
+    <loc>http://ashcaesar.github.io/categories/Linux/</loc>
+    <lastmod>2023-06-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ashcaesar.github.io/categories/Linux/Ubuntu/</loc>
+    <lastmod>2023-06-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ashcaesar.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
